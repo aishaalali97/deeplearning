@@ -1,2 +1,4 @@
 # deeplearning
-deep learning course. 
+deep learning course.
+
+the main python script is 'data_cleaning.py' in this place
